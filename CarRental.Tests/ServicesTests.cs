@@ -71,4 +71,4 @@ public class ServicesTests
         // [10:00, 12:00) и [11:00, 13:00)
         Assert.True(CatalogService.PeriodsOverlap(T10, T10.AddHours(2), T10.AddHours(1), T10.AddHours(3)));
     }
-}
+}   

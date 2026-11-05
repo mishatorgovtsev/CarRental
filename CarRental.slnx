@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="CarRental.App/CarRental.App.csproj" />
+  <Project Path="CarRental.Tests/CarRental.Tests.csproj" Id="2e9f8cd3-7289-44c2-a403-cc84a0ed6d10" />
 </Solution>
